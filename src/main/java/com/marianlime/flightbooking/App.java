@@ -1,31 +1,26 @@
 package com.marianlime.flightbooking;
 
-import com.marianlime.flightbooking.model.Flight;
 import com.marianlime.flightbooking.repository.CsvFlightRepository;
 import com.marianlime.flightbooking.repository.FlightRepository;
+import com.marianlime.flightbooking.service.BookingService;
 import com.marianlime.flightbooking.service.FlightSearchService;
+import com.marianlime.flightbooking.ui.FlightBookingFrame;
 
-import java.util.List;
+import javax.swing.SwingUtilities;
 
 public class App {
     public static void main(String[] args) {
-        FlightRepository repository = new CsvFlightRepository();
-        FlightSearchService searchService = new FlightSearchService(repository);
+        SwingUtilities.invokeLater(() -> {
+            FlightRepository flightRepository = new CsvFlightRepository();
+            FlightSearchService flightSearchService = new FlightSearchService(flightRepository);
+            BookingService bookingService = new BookingService();
 
-        List<Flight> londonFlights = searchService.search("London", "");
+            FlightBookingFrame frame = new FlightBookingFrame(
+                    flightSearchService,
+                    bookingService
+            );
 
-        System.out.println("Loaded flights: " + repository.findAll().size());
-        System.out.println("Flights departing London: " + londonFlights.size());
-
-        londonFlights.stream()
-                .limit(5)
-                .forEach(flight -> System.out.println(
-                        flight.getFlightNumber()
-                                + " | " + flight.getAirline()
-                                + " | " + flight.getDepartureCity()
-                                + " -> " + flight.getArrivalCity()
-                                + " | " + flight.getDepartureTime()
-                                + " | £" + flight.getPrice()
-                ));
+            frame.setVisible(true);
+        });
     }
 }
