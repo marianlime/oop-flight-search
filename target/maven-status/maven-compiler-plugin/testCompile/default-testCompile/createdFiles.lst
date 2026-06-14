@@ -1,0 +1,3 @@
+com/marianlime/flightbooking/service/BookingServiceTest.class
+com/marianlime/flightbooking/service/FlightSearchServiceTest.class
+com/marianlime/flightbooking/repository/CsvFlightRepositoryTest.class
