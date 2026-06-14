@@ -21,15 +21,6 @@ A Java Swing flight booking application refactored from an older university proj
 - JUnit 5
 - Python CSV generation script
 
-## Project Structure
-
-src/main/java/com/marianlime/flightbooking/
-├── model/
-├── repository/
-├── service/
-├── ui/
-└── App.java
-
 ## Design
 
 The application separates responsibilities across layers:
