@@ -1,0 +1,101 @@
+flightNumber,airline,departureCity,arrivalCity,departureTime,totalSeats,availableSeats,price
+U2564,easyJet,Paris,Berlin,2026-06-15 13:15,80,80,206.77
+AF588,Air France,London,Tokyo,2026-06-15 16:30,180,137,802.09
+U2488,easyJet,Berlin,London,2026-06-15 17:30,180,73,303.10
+VS260,Virgin Atlantic,Edinburgh,Birmingham,2026-06-15 18:45,180,74,142.72
+U2409,easyJet,Edinburgh,Amsterdam,2026-06-15 22:15,80,70,153.09
+FR250,Ryanair,Paris,Edinburgh,2026-06-16 06:15,220,217,316.31
+AF132,Air France,Manchester,Dubai,2026-06-16 07:15,220,6,489.60
+AF444,Air France,Dubai,New York,2026-06-16 20:30,120,45,459.10
+U2658,easyJet,Dublin,Toronto,2026-06-17 16:15,80,39,188.85
+KL926,KLM,Tokyo,Amsterdam,2026-06-17 19:00,180,20,313.82
+EK523,Emirates,Tokyo,London,2026-06-18 11:30,180,160,723.58
+KL345,KLM,Manchester,Amsterdam,2026-06-18 12:00,180,17,109.70
+LH158,Lufthansa,Rome,London,2026-06-18 20:15,220,20,103.08
+BA334,British Airways,Toronto,New York,2026-06-19 06:30,120,35,392.51
+VS709,Virgin Atlantic,Tokyo,Birmingham,2026-06-19 12:45,220,63,421.93
+KL550,KLM,New York,Edinburgh,2026-06-19 14:15,150,138,513.03
+AF710,Air France,New York,Birmingham,2026-06-19 17:45,180,135,707.53
+KL126,KLM,Toronto,Amsterdam,2026-06-20 12:00,300,137,319.90
+FR950,Ryanair,Amsterdam,Tokyo,2026-06-20 13:45,180,145,146.09
+BA734,British Airways,Dubai,Dublin,2026-06-20 18:30,120,85,304.98
+AF358,Air France,Singapore,Tokyo,2026-06-20 20:00,80,44,799.41
+KL779,KLM,London,New York,2026-06-21 09:30,80,70,419.26
+BA724,British Airways,Berlin,Paris,2026-06-21 11:15,80,20,150.87
+LH919,Lufthansa,London,Berlin,2026-06-21 12:15,180,35,133.75
+BA868,British Airways,New York,Toronto,2026-06-21 18:15,300,265,455.53
+FR968,Ryanair,Madrid,London,2026-06-22 19:15,300,271,274.33
+FR535,Ryanair,New York,Singapore,2026-06-22 22:15,150,36,738.58
+BA796,British Airways,Paris,Rome,2026-06-22 22:30,150,28,266.78
+U2344,easyJet,London,Dubai,2026-06-23 20:00,120,59,688.38
+FR652,Ryanair,New York,Madrid,2026-06-23 20:15,180,48,270.46
+BA255,British Airways,Manchester,Dubai,2026-06-24 14:00,80,71,946.35
+FR373,Ryanair,Singapore,Berlin,2026-06-25 08:45,180,56,290.60
+U2342,easyJet,Dubai,Toronto,2026-06-25 10:45,300,170,364.87
+AF841,Air France,New York,Dublin,2026-06-25 19:15,220,6,315.57
+LH391,Lufthansa,Dublin,Edinburgh,2026-06-25 19:30,300,270,230.69
+LH691,Lufthansa,Rome,Paris,2026-06-27 07:00,150,20,242.09
+AF506,Air France,London,Paris,2026-06-27 07:15,150,30,113.44
+EK258,Emirates,Berlin,Toronto,2026-06-27 14:15,220,188,312.80
+VS838,Virgin Atlantic,Paris,Edinburgh,2026-06-27 15:00,300,94,260.86
+BA466,British Airways,Amsterdam,Singapore,2026-06-28 12:00,220,104,171.35
+KL259,KLM,Berlin,Amsterdam,2026-06-28 15:00,80,45,111.33
+KL719,KLM,Birmingham,Paris,2026-06-28 15:15,150,129,248.12
+AF163,Air France,Rome,Madrid,2026-06-28 18:45,220,178,298.11
+FR599,Ryanair,Toronto,Dublin,2026-06-29 13:45,180,86,201.70
+VS401,Virgin Atlantic,Singapore,London,2026-06-29 17:15,220,94,533.72
+KL573,KLM,Berlin,Birmingham,2026-06-30 07:45,220,25,275.85
+BA195,British Airways,London,New York,2026-06-30 10:45,120,110,641.38
+EK560,Emirates,Dublin,Birmingham,2026-07-01 12:30,220,124,266.14
+VS422,Virgin Atlantic,London,Madrid,2026-07-01 15:00,180,131,313.14
+U2152,easyJet,Madrid,Amsterdam,2026-07-01 20:00,180,125,279.09
+BA859,British Airways,New York,Manchester,2026-07-02 12:15,80,69,433.72
+VS891,Virgin Atlantic,Amsterdam,Paris,2026-07-02 16:45,220,84,246.29
+VS489,Virgin Atlantic,Tokyo,Edinburgh,2026-07-02 19:30,150,53,447.59
+BA308,British Airways,Madrid,Singapore,2026-07-02 22:15,180,178,303.36
+BA411,British Airways,Rome,Tokyo,2026-07-03 11:45,220,167,270.72
+KL823,KLM,London,Edinburgh,2026-07-03 19:00,150,150,142.49
+EK458,Emirates,Edinburgh,Tokyo,2026-07-04 12:15,120,51,364.20
+U2911,easyJet,Manchester,London,2026-07-04 14:45,300,155,74.92
+FR830,Ryanair,Edinburgh,Rome,2026-07-04 17:30,220,115,190.76
+VS837,Virgin Atlantic,Dubai,Amsterdam,2026-07-04 21:30,150,103,243.39
+FR801,Ryanair,Dublin,New York,2026-07-05 06:15,150,102,279.01
+FR680,Ryanair,Paris,Manchester,2026-07-05 11:45,300,234,181.00
+FR165,Ryanair,Manchester,Edinburgh,2026-07-06 05:15,80,9,130.61
+FR256,Ryanair,Paris,Tokyo,2026-07-08 10:00,180,4,227.76
+U2336,easyJet,Manchester,Birmingham,2026-07-09 09:15,180,84,67.71
+FR371,Ryanair,Toronto,Amsterdam,2026-07-10 09:30,80,1,195.16
+U2296,easyJet,Toronto,Paris,2026-07-11 17:15,150,103,231.57
+AF462,Air France,Manchester,Dublin,2026-07-12 18:45,80,12,288.68
+AF325,Air France,Rome,Edinburgh,2026-07-13 13:00,120,89,264.53
+LH873,Lufthansa,Rome,Dubai,2026-07-13 21:45,220,114,281.03
+U2859,easyJet,New York,Paris,2026-07-13 22:45,80,9,219.01
+LH316,Lufthansa,Paris,Berlin,2026-07-14 15:30,180,71,265.08
+EK193,Emirates,New York,Tokyo,2026-07-15 16:45,300,53,549.99
+U2753,easyJet,Paris,Toronto,2026-07-16 08:00,180,122,222.03
+AF942,Air France,London,Tokyo,2026-07-16 08:45,300,235,926.47
+FR241,Ryanair,Berlin,Amsterdam,2026-07-17 20:00,80,19,263.83
+AF280,Air France,Toronto,Birmingham,2026-07-18 13:45,300,137,628.92
+FR894,Ryanair,Singapore,Berlin,2026-07-18 17:45,150,150,298.96
+U2581,easyJet,Dubai,London,2026-07-18 19:30,220,111,458.89
+AF101,Air France,Paris,London,2026-07-18 22:15,80,42,173.77
+VS175,Virgin Atlantic,Madrid,Dubai,2026-07-19 11:30,150,17,120.47
+BA455,British Airways,Singapore,Dubai,2026-07-19 18:30,300,174,391.37
+KL612,KLM,Toronto,Berlin,2026-07-19 20:45,80,55,108.50
+AF600,Air France,Edinburgh,Toronto,2026-07-20 12:45,180,114,737.54
+LH535,Lufthansa,Madrid,Rome,2026-07-20 15:30,150,78,251.66
+U2352,easyJet,Birmingham,Paris,2026-07-20 22:30,180,149,261.81
+KL282,KLM,London,Manchester,2026-07-22 13:00,180,88,73.01
+EK383,Emirates,Edinburgh,Dublin,2026-07-22 21:30,120,37,315.52
+LH271,Lufthansa,Toronto,Paris,2026-07-23 08:15,80,74,311.89
+LH386,Lufthansa,Singapore,Paris,2026-07-23 13:00,120,10,208.82
+LH546,Lufthansa,Toronto,Singapore,2026-07-23 21:00,220,48,581.12
+VS723,Virgin Atlantic,New York,Paris,2026-07-25 10:15,180,69,127.58
+EK524,Emirates,Singapore,Manchester,2026-07-25 11:45,120,18,646.63
+BA194,British Airways,Madrid,Paris,2026-07-25 18:30,150,33,100.14
+VS899,Virgin Atlantic,Edinburgh,New York,2026-07-26 06:00,120,107,919.77
+BA185,British Airways,Dublin,Berlin,2026-07-26 18:15,120,6,289.38
+KL627,KLM,New York,Manchester,2026-07-27 15:00,120,86,841.05
+U2231,easyJet,Singapore,Rome,2026-07-27 20:15,220,108,150.96
+EK552,Emirates,Amsterdam,Madrid,2026-07-28 11:45,300,86,272.56
+LH521,Lufthansa,Tokyo,Birmingham,2026-07-29 20:30,180,140,747.55
